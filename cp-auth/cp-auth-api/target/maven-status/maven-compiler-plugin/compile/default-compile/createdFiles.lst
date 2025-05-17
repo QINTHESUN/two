@@ -1,0 +1,4 @@
+com\cp\api\entity\Result.class
+com\cp\api\entity\ResultCodeEnum.class
+com\cp\api\entity\AuthUserDto.class
+com\cp\api\auth\UserFeignService.class

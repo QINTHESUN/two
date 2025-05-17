@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cp.subject.infra.basic.mapper.SubjectLikedDao">
+
+    <resultMap type="com.cp.subject.infra.basic.entity.SubjectLikedEntity" id="SubjectLikedMap">
+        <result property="id" column="id"/>
+        <result property="subjectId" column="subject_id"/>
+        <result property="likeUserId" column="like_user_id"/>
+        <result property="status" column="status"/>
+        <result property="createdBy" column="created_by"/>
+        <result property="createdTime" column="created_time"/>
+        <result property="updateBy" column="update_by"/>
+        <result property="updateTime" column="update_time"/>
+        <result property="isDeleted" column="is_deleted"/>
+    </resultMap>
+    <select id="queryPage" resultType="com.cp.subject.infra.basic.entity.SubjectLikedEntity">
+        select *
+        from subject_liked
+        where is_deleted = 0
+          AND like_user_id = #{entity.likeUserId} and status = 1
+            limit #{start}
+            , #{pageSize}
+    </select>
+</mapper>

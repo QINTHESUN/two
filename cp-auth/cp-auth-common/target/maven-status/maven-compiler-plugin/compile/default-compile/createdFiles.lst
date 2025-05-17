@@ -1,0 +1,6 @@
+com\cp\auth\common\entity\PageResult.class
+com\cp\auth\common\enums\AuthUserStatusEnum.class
+com\cp\auth\common\entity\PageInfo.class
+com\cp\auth\common\entity\Result.class
+com\cp\auth\common\enums\ResultCodeEnum.class
+com\cp\auth\common\enums\IsDeletedFlagEnum.class

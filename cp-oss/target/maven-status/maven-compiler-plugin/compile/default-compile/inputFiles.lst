@@ -1,0 +1,12 @@
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\controller\FileController.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\service\FileService.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\OssApplication.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\adapter\MinioStorageAdapter.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\util\MinioUtil.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\config\MinioConfig.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\entity\ResultCodeEnum.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\adapter\AliStorageAdapter.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\adapter\StorageAdapter.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\entity\FileInfo.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\config\StorageConfig.java
+E:\test\cp\cp-oss\src\main\java\com\cp\oss\entity\Result.java

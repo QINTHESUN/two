@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cp-auth/cp-auth-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-auth/cp-auth-application/cp-auth-application-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-auth/cp-auth-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-auth/cp-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-auth/cp-auth-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-auth/cp-auth-infra/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-auth/cp-auth-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-comment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-oss/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-application/cp-subject-application-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-application/cp-subject-application-controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-infra/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-infra/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/cp-subject-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-subject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-wx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cp-wx/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

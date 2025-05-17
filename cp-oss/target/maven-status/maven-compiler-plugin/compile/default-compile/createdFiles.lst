@@ -1,0 +1,12 @@
+com\cp\oss\adapter\MinioStorageAdapter.class
+com\cp\oss\entity\ResultCodeEnum.class
+com\cp\oss\adapter\AliStorageAdapter.class
+com\cp\oss\service\FileService.class
+com\cp\oss\adapter\StorageAdapter.class
+com\cp\oss\entity\FileInfo.class
+com\cp\oss\config\StorageConfig.class
+com\cp\oss\OssApplication.class
+com\cp\oss\controller\FileController.class
+com\cp\oss\config\MinioConfig.class
+com\cp\oss\entity\Result.class
+com\cp\oss\util\MinioUtil.class

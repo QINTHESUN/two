@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cp-gateway" />
+        <module name="cp-subject-application" />
+        <module name="cp-subject-starter" />
+        <module name="cp-wx" />
+        <module name="cp-subject-domain" />
+        <module name="cp-auth-infra" />
+        <module name="cp-auth-common" />
+        <module name="cp-auth-application-controller" />
+        <module name="cp-auth-api" />
+        <module name="cp-subject-common" />
+        <module name="cp-subject-application-controller" />
+        <module name="cp-auth-domain" />
+        <module name="cp-auth-application" />
+        <module name="cp-subject-infra" />
+        <module name="cp-auth-starter" />
+        <module name="cp-oss" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cp-comment" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cp-auth" options="" />
+      <module name="cp-auth-api" options="-parameters" />
+      <module name="cp-auth-application" options="-parameters" />
+      <module name="cp-auth-application-controller" options="-parameters" />
+      <module name="cp-auth-common" options="-parameters" />
+      <module name="cp-auth-domain" options="-parameters" />
+      <module name="cp-auth-infra" options="-parameters" />
+      <module name="cp-auth-starter" options="-parameters" />
+      <module name="cp-oss" options="-parameters" />
+      <module name="cp-subject-application" options="-parameters" />
+      <module name="cp-subject-application-controller" options="-parameters" />
+      <module name="cp-subject-common" options="-parameters" />
+      <module name="cp-subject-domain" options="-parameters" />
+      <module name="cp-subject-infra" options="-parameters" />
+      <module name="cp-subject-starter" options="-parameters" />
+      <module name="cp-wx" options="-parameters" />
+    </option>
+  </component>
+</project>
